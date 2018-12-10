@@ -16,6 +16,7 @@ font-family: 'Merriweather', serif;
     display: inline-block ;
 }
 
+
 #menu {
     background-color: #08b597 ;
     text-align: left;
@@ -47,6 +48,8 @@ color:#08b597;
 }
 
 #deshimag{
+margin-top:0px ;
+margin-bottom:0px;
 text-align: center;
 font-family: "motionpicturepersonal";
 font-size: 40px;
@@ -118,6 +121,11 @@ display: inline-block;
 margin:0 12px;
 font-size: 15px;
 padding-top:5px;
+}
+
+#icon{
+display: inline-block;
+float:right;
 }
 
 

@@ -5,7 +5,7 @@
 ```css
 .menu
 {
-background-color:blue;
-font-size:12px;
+    background-color:blue;
+    font-size:12px;
 }
 ```

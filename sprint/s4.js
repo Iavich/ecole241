@@ -3,4 +3,4 @@
 //'Bonjour' + nom;//
 
 const nom = prompt("Entrez votre nom :");
-alert(`Bonjour, ${prenom}`);
+alert(`Bonjour, ${nom}`);

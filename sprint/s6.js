@@ -1,2 +1,2 @@
-// Age majeure   //
+//Age majeure   //
 //informations a connaitre dans la vie

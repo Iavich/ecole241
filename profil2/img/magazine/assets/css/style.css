@@ -1,0 +1,130 @@
+@font-face{
+     font-family:"motionpicturepersonal";
+     src: url(../fonts/MotionPicture_PersonalUseOnly.ttf) format("truetype");
+}
+.Merriweaver {
+font-family: 'Merriweather', serif;    
+}
+
+
+
+------------------------// MENU 1  -----------------------------------
+
+
+#menu li {
+    display: inline-block ;
+}
+
+
+#menu {
+    background-color: #08b597 ;
+    text-align: left;
+}
+#menu li {
+    display: inline-block ;
+}
+
+#menu a {
+    display: block ;
+    width: 110px ;
+    padding: 5px 0 ;
+    border: 0px solid #FFE843 ;
+    background-color: #08b597 ;
+    color: white ;
+    text-decoration: none ;
+    margin:8px;
+    text-align: center ;
+    border-radius: 5px;
+}
+
+
+
+.desh{
+color:#707070;
+}
+.mag {
+color:#08b597;
+}
+
+#deshimag{
+margin-top:0px ;
+margin-bottom:0px;
+text-align: center;
+font-family: "motionpicturepersonal";
+font-size: 40px;
+}
+
+hr{
+width: 700px;
+border:0.5px solid gray;
+}
+
+
+/*------------------------// MENU 2  -----------------------------------*/
+
+#menu2 li{
+display: inline-block ;
+}
+
+#menu2 {
+    background-color: white ;
+    text-align: left;
+}
+#menu2 li{
+    display: inline-block ;
+}
+
+#menu2 a {
+    display: block ;
+    width: 110px ;
+    padding: 5px 0 ;
+    border: 0px solid #FFE843 ;
+    background-color: white ;
+    color: #707070 ;
+    text-decoration: none ;
+    margin:8px;
+    text-align: center ;
+    border-radius: 5px;
+}
+
+#banniere{
+background: url("../img/femme.jpg") no-repeat;
+height: 500px;
+background-size: cover;
+color:white;
+font-family:'Merriweather', serif;
+text-align: center;
+padding-top: 200px;
+font-size: 30px;
+
+}
+
+.favoritestyled {
+border-radius: 15px;
+background-color:#08b597;
+margin-right: 795px;
+color:white;
+padding:auto;
+
+}
+
+.img{
+background: url("../img/vignette.png") no-repeat;  
+width: 200px;
+height: 150px;
+background-size: cover;
+color:white;
+font-family:'Merriweather', serif;
+text-align: center;
+display: inline-block;
+margin:0 12px;
+font-size: 15px;
+padding-top:5px;
+}
+
+#icon{
+display: inline-block;
+float:right;
+}
+
+
